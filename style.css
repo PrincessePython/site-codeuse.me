@@ -1,0 +1,57 @@
+* {
+  margin: 0px;
+  padding: 0px;
+  font-family: sans-serif;
+}
+.nav-link {
+  color: rgb(255, 255, 255) !important;
+}
+.navbar-toggler {
+  color: rgb(255, 255, 255) !important;
+}
+#nav-bar {
+  background: rgb(51, 180, 245);
+}
+#deco-home {
+  background-color: rgb(81, 181, 231);
+}
+#more {
+  border-radius: 5px;
+  border-color: white;
+}
+.border-bottom {
+  border-color: rgb(52, 117, 235);
+}
+#skills {
+  padding: 10% 0px;
+}
+.img-size {
+  width: 200px;
+  object-fit: cover;
+  height: 200px !important;
+}
+.contact-btn {
+  border: 0px;
+  line-height: 2.5;
+  padding: 10px 30px;
+  background: rgb(255, 122, 89);
+  font-size: 2rem;
+  text-align: center;
+  color: white;
+  text-shadow: rgb(0, 0, 0) 1px 1px 1px;
+  border-radius: 15px;
+  box-sizing: border-box;
+  cursor: pointer;
+  transition: all 500ms ease 0s;
+}
+.footer {
+  background-color: rgb(51, 180, 245);
+  height: 50px;
+}
+div.reseaux i {
+  margin-right: 10px;
+  margin-top: 20px;
+  font-size: 30px;
+  margin-left: 5px;
+  color: white;
+}
